@@ -1,1 +1,6 @@
-
+debian/.debhelper/
+debian/argon-one-salt.substvars
+debian/argon-one-salt/
+debian/debhelper-build-stamp
+debian/files
+obj-aarch64-linux-gnu/
