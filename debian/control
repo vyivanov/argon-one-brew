@@ -1,0 +1,15 @@
+Source: argon-one-salt
+Section: unknown
+Priority: optional
+Maintainer: Vladimir (Yandex.SDC) Ivanov <vova-ivanov@yandex-team.ru>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: https://anonscm.debian.org/git/collab-maint/argon-one-salt.git
+#Vcs-Browser: https://anonscm.debian.org/cgit/collab-maint/argon-one-salt.git
+
+Package: argon-one-salt
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
